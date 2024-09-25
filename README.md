@@ -1,1 +1,1 @@
-# MelanomaDetection
+# Melanoma Cancer Detection Using CNN
