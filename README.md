@@ -15,9 +15,6 @@ Melanoma cancer detection using Convolutional Neural Networks (CNNs) is an appli
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 ## Conclusions
-- Conclusion 1:
--- Model 1 Training Accuracy 62.10% and Validation Accuracy 53.91% are closely same, but very low which indicates that the model is underfitting.
-- Conclusion 2:
--- Model 2 on Augmented Data Training Accuracy 51.95% and Validation Accuracy 50.78% are relatively close, and the losses are also somewhat close. But both accuracy values are low. Model likely needs more epochs to train with class imbalance handled.
-- Conclusion 3:
--- Model 3 on rectified class imbalance data Training Accuracy 90.52% and Validation Accuracy 82.03% are relatively close. The training loss and validation loss are also relatively close. This is a sign of good fit. The model is able to classify the images with 82% Validation Accuracy.
+- Conclusion 1: Model 1 Training Accuracy 62.10% and Validation Accuracy 53.91% are closely same, but very low which indicates that the model is underfitting.
+- Conclusion 2: Model 2 on Augmented Data Training Accuracy 51.95% and Validation Accuracy 50.78% are relatively close, and the losses are also somewhat close. But both accuracy values are low. Model likely needs more epochs to train with class imbalance handled.
+- Conclusion 3: Model 3 on rectified class imbalance data Training Accuracy 90.52% and Validation Accuracy 82.03% are relatively close. The training loss and validation loss are also relatively close. This is a sign of good fit. The model is able to classify the images with 82% Validation Accuracy.
